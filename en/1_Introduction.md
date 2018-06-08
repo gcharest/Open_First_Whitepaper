@@ -46,6 +46,20 @@ The flexibility of OSS enables rapid response to changing missions and markets a
 
 Canada has set a very clear Open Government mandate to "create greater transparency and accountability, increase citizen engagement, and drive innovation and economic opportunities through open data, open information, and open dialogue". Sharing in-house software programs under an open source licence naturally align to these objectives and is a great way to give back to taxpayers.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Individuals, businesses, the public, institutions and things all communicate via computer exchanges. These computer exchanges have become an essential conduit, and their overall heterogeneity is an even greater reason for interoperability, meaning the ability to make a variety of information systems communicate with one another.  A lack of interoperability can lead, at best, to a breakdown in communication or operations and, at worst, to an outright loss of access to valuable information.
+
+### Contributing
+
+As mentioned above, this whitepaper is being co-developed by members of Canada's open source community in an effort to get the fullest picture of existing and future uses of open within the GC. While we have made a first attempt at gathering research, including best practices and jurisdictional case studies, there is always room to help improve. Please share your thoughts, case studies, questions, and concerns.
+
+Contributions can be made through a pull request or by creating an issue.
+
+We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
+=======
+>>>>>>> f7c1594bf4b7bdee4ecd75f6341b91219b7866aa
 Releasing an in-house software code under an OSS licence, can help with lowering development costs since it encourages external contributions from governments, companies, students and citizens in the form of source code, bugs and documentation. The project can be a joint effort amongst multiple companies, public sector workers, and individual volunteers. Releasing software as OSS to encourage others to collaborate on it can also help ensure the viability of a project into the future. The release of OSS by public sector organizations can also help stimulate innovation in the private sector. It enables companies to create specialized offerings built on OSS, even where such software might otherwise be too expensive for the company to develop in-house.
 
 OSS can align well with the role of public sector agencies in providing wide benefits to the public-at-large, such as in maintaining society’s technological infrastructure and helping it evolve. OSS can also help maximize overall economic efficiency within society. Where software is freely available, and where anyone can add any new features needed, companies can make use of these existing resources rather than expend effort duplicating an existing project.
@@ -79,3 +93,7 @@ OSS can align well with the role of public sector agencies in providing wide ben
 * Federal departments, provincial, municipal
   * Geospatial community
 * international partners
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> f7c1594bf4b7bdee4ecd75f6341b91219b7866aa
