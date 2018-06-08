@@ -2,10 +2,10 @@
 
 ## Normes ouvertes
 
-- [Définition](#definition)
 - [Interopérabilité](#interopérabilité)
 - [Normes ouvertes privilégiées](#normes-ouvertes-privilégiées)
-- [Exemples](#examples)
+- [Autres normes ouvertes au GC](#autres-normes-ouvertes-au-gc)
+- [Normes ouvertes pour le gouvernement du Royaume Uni](#normes-ouvertes-pour-le-gouvernement-du-royaume-uni)
 
 Le [Logiciel libre](3_Logiciel_libre.md) utilise habituellement ou contribue à définir les normes ouvertes et les spécifications accessibles au public. Les produits de logiciel libre sont, de par leur nature, des spécifications accessibles au public, et la disponibilité de leur code source favorise un débat ouvert et démocratique sur leurs spécifications, ce qui les rend à la fois plus robustes et interopérables. Du point de vue de la conception, l'interopérabilité et les logiciels libres sont clairement distincts, tout comme les logiciels libres et les normes ouvertes. Toutefois, du point de vue culturel et historique, il existe des liens solides entre ces concepts. Cela peut s'expliquer par la « collectivité des valeurs » - en raison de leur nature ouverte, les modèles économiques de logiciels libres sont fondés moins sur des stratégies de verrouillage de l'utilisateur et plus sur l'interopérabilité au profit de l'utilisateur. L'utilisation de normes ouvertes est nécessaire pour assurer l'interopérabilité entre les produits ou les systèmes.
 
@@ -62,13 +62,11 @@ La [Norme sur l'accessibilité des sites Web du GC](https://www.tbs-sct.gc.ca/po
 
 - [Règles sur l'accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
-### Exemples
-
-#### Canada
+### Autres normes ouvertes au GC
 
 Bibliothèque et Archives Canada (BAC) [Lignes directrices sur les formats de fichier à utiliser pour transférer des ressources documentaires](http://www.bac-lac.gc.ca/fra/services/gestion-ressources-documentaires-gouvernement/lignes-directrices/Pages/lignes-directrices-formats-fichier-transferers-ressources-documentaires.aspx) recommande les normes ouvertes suivantes.
 
-### Texte
+#### Texte
 
 - [Code standard américain pour l'échange d'information (ASCII)](https://www.iso.org/standard/4777.html)
 - [Publication électronique (EPUB) 3.0](http://idpf.org/epub/30)
@@ -78,7 +76,7 @@ Bibliothèque et Archives Canada (BAC) [Lignes directrices sur les formats de fi
 - [UTF-8](https://tools.ietf.org/html/rfc3629)
 - [UTF-16](https://tools.ietf.org/html/rfc2781)
 
-### Présentation
+#### Présentation
 
 - [Format de document ouvert (FDO)](https://www.iso.org/standard/66363.html)
 - [Format/archivage de documents portables (PDF/A) 1](https://www.iso.org/standard/38920.html)
@@ -89,7 +87,7 @@ Les lignes directrices de BAC énumèrent également les formats recommandés po
 
 Services publics et Approvisionnement Canada (SPAC) a mis à l'essai le [Standard de données sur la commande publique ouverte](http://standard.open-contracting.org/latest/fr/) afin de démontrer l'utilisation de la norme en établissant des liens entre les phases du processus d'approvisionnement à l'aide des données provenant des approvisionnements effectués par SPAC au nom des ministères et organismes gouvernementaux. ([source](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/projet-pilote-norme-relative-aux-donnees-sur-la-passation-de-marches-ouverts)).
 
-#### Royaume Uni
+### Normes ouvertes pour le gouvernement du Royaume Uni
 
 Le gouvernement britannique doit choisir un ensemble de normes ouvertes qui sera utilisé dans la technologie gouvernementale. L'objectif est de les appliquer uniformément à l'ensemble des organismes gouvernementaux, afin d'améliorer les services aux utilisateurs. Les normes ouvertes sont sélectionnées après une période d'examen par les pairs et de commentaires du public par l'entremise du [Centre des normes](https://github.com/alphagov/open-standards). Voir les normes approuvées suivantes : [Normes ouvertes pour le gouvernement](https://www.gov.uk/government/publications/open-standards-for-government).
 
